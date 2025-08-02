@@ -1,5 +1,5 @@
 // src/App.jsx
-import Pokedex from "./components/Pokedex";
+import Pokedex from "./Components/Pokedex";
 
 function App() {
   return (
